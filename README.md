@@ -1,3 +1,3 @@
-# hello-world
-Just a tutorial
+# This is my study notes
+
 I'm YSfreedom
